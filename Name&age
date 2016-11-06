@@ -1,3 +1,5 @@
 name = Hari
+age = 25
 
 print "my name is %s." %name
+print "I am %d year old." %age
